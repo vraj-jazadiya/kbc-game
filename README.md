@@ -11,12 +11,12 @@ The game fetches live trivia questions from an online API and lets players answe
 -  🪜 **KBC Prize Money Ladder**
 - 🎮 **Interactive CLI Gameplay**
 - 🧠 **Difficulty Levels**
-  -- Easy
-  -- Medium
-  -- Hard
+  - Easy
+  - Medium
+  - Hard
 - 🃏 **Lifelines**
-  -- **Skip Question** (once per game)
-  -- **50-50** (removes two wrong answers)
+  - **Skip Question** (once per game)
+  - **50-50** (removes two wrong answers)
 - 💰 **Real-time Prize Tracking**
 - 🎨 **Colored Terminal UI** using `rich`
 
@@ -25,7 +25,7 @@ The game fetches live trivia questions from an online API and lets players answe
 ## 🖥 Example Gameplay
 
 ```
-Enter your name: Jay
+Enter your name: Vraj
 
 Welcome to Kaun Banega Crorepati
 
