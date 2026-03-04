@@ -1,0 +1,22 @@
+[
+    {
+        "category": "science",
+        "id": "63e4c361106de6ffa7d4a7e5",
+        "correctAnswer": "Theropod",
+        "incorrectAnswers": [
+            "Sauropod",
+            "Pachycephalosaurus",
+            "Ankylosaurus"
+        ],
+        "question": {
+            "text": "What type of dinosaur was the Velociraptor?"
+        },
+        "tags": [
+            "dinosaurs"
+        ],
+        "type": "text_choice",
+        "difficulty": "medium",
+        "regions": [],
+        "isNiche": false
+    }
+]
