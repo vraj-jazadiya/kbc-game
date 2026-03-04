@@ -179,7 +179,7 @@ If you'd like to improve gameplay or add features, feel free to fork the repo.
 
 ## 📜 License
 
-MIT License
+GNU General Public License v3.0
 
 ---
 
