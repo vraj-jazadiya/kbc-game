@@ -7,20 +7,18 @@ The game fetches live trivia questions from an online API and lets players answe
 
 ## 🚀 Features
 
-* 🎯 **Dynamic Trivia Questions** using an API
-* 🪜 **KBC Prize Money Ladder**
-* 🎮 **Interactive CLI Gameplay**
-* 🧠 **Difficulty Levels**
-
-  * Easy
-  * Medium
-  * Hard
-* 🃏 **Lifelines**
-
-  * **Skip Question** (once per game)
-  * **50-50** (removes two wrong answers)
-* 💰 **Real-time Prize Tracking**
-* 🎨 **Colored Terminal UI** using `rich`
+- 🎯 **Dynamic Trivia Questions** using an API
+-  🪜 **KBC Prize Money Ladder**
+- 🎮 **Interactive CLI Gameplay**
+- 🧠 **Difficulty Levels**
+  -- Easy
+  -- Medium
+  -- Hard
+- 🃏 **Lifelines**
+  -- **Skip Question** (once per game)
+  -- **50-50** (removes two wrong answers)
+- 💰 **Real-time Prize Tracking**
+- 🎨 **Colored Terminal UI** using `rich`
 
 ---
 
